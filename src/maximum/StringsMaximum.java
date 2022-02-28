@@ -4,7 +4,7 @@ public class StringsMaximum {
 
 	public static void main(String[] args) {
 
-		calMax("Bittu","John","Anand"); // passing values to calMax method
+		calMax("Bittu","John","Priya"); // passing values to calMax method
 
 	}
 
