@@ -4,7 +4,7 @@ public class FloatMaximum {
 
 	public static void main(String[] args) {
 
-		calMax(80.8f, 20.5f, 50.8f); // passing values to calMax method
+		calMax(80.8f, 90.5f, 50.8f); // passing values to calMax method
 
 	}
 
