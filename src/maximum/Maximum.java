@@ -4,7 +4,7 @@ public class Maximum {
 
 	public static void main(String[] args) {
 
-		calMax(20, 10, 5); // passing values to calMax method
+		calMax(20, 40, 5); // passing values to calMax method
 
 	}
 
