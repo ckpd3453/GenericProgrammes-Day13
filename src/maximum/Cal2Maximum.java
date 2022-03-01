@@ -1,9 +1,9 @@
 package maximum;
 
-public class CalMaximum<e extends Comparable<e>> {
+public class Cal2Maximum<e extends Comparable<e>> {
 	e x,y,z;
 
-	public CalMaximum(e x, e y, e z) {
+	public Cal2Maximum(e x, e y, e z) {
 		super();
 		this.x = x;
 		this.y = y;
